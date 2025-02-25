@@ -1,0 +1,21 @@
+{
+  "name": "loggerimplementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --experimental-strip-types ./src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisenoYConstruccionDeComponentes/loggerImplementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DisenoYConstruccionDeComponentes/loggerImplementation/issues"
+  },
+  "homepage": "https://github.com/DisenoYConstruccionDeComponentes/loggerImplementation#readme"
+}
